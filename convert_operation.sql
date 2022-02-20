@@ -1,0 +1,1 @@
+SELECT CONVERT(film_id, CHAR) from sakila.film;
